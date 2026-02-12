@@ -23,7 +23,6 @@ All peripherals are connected to the system bus togheter with the memory control
 
 <!-- tabs:end -->
 
-
 ## peripheral controller example
 
 **All devices have a controller**, wich allow the CPU to control the peripheral device.
@@ -52,9 +51,9 @@ All peripherals are connected to the system bus togheter with the memory control
 
 <!-- tabs:end -->
 
-> [!NOTE] obvious problem
+> [!NOTE]
 > there is an `obvious problem` here:
 > the CPU is siting IDLE
 >
-> SOLUTION: **interupts**
+> SOLUTION: **[interupts](/chapter1/interrupts.md)**
 
