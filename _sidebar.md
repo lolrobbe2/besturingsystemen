@@ -3,3 +3,5 @@
   * [peripherals](/chapter1/peripherals.md)
   * [interrupts](/chapter1/interrupts.md)
   * [operating system](/chapter1/operating-system.md)
+* [chapter 2](/chapter2/chapter2.md)
+  * [processes](/chapter2/processes.md)
