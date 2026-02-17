@@ -58,6 +58,8 @@ assinging system resources:
 
 ### **multi tasking**
 
+Multiple Processes are interleaved.
+
 ![multi tasking](./operating-systems/multi-tasking.png)
 
 ### **multi processing**
@@ -71,11 +73,17 @@ assinging system resources:
 
 `1` Operating System instance (entire system)
 
+> [!WARNING]
+> With this model the second core is sitting idle allot of the time.
+
 ![assymetric](./operating-systems/assymetric-multiprocessing.png)
 
 #### **Symetric**
 
 each processor/core has an Operating System instance
+
+> [!NOTE] SYNC OVERHEAD
+> There is synchronization overhead between each instance
 
 ![symetric](./operating-systems/symmetric-multiprocessing.png)
 
