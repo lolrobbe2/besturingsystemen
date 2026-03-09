@@ -29,4 +29,8 @@
 - [functions of the OS](/chapter1/operating-system.md#functions-of-the-os)
 - [processing types (3)](/chapter1/operating-system.md#processing-types-3)
 
+### **kernel types**
+
+- [kernel types](/chapter1/kernel-types.md)
+
 <!-- tabs:end -->
