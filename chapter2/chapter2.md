@@ -8,4 +8,3 @@
 
 - [processes](/chapter2/processes.md#processes)
 - [defenitions](/chapter2/processes.md#defenitions-2)
- 

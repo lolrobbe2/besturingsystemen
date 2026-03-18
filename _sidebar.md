@@ -6,3 +6,4 @@
   * [kernel types](/chapter1/kernel-types.md)
 * [chapter 2](/chapter2/chapter2.md)
   * [processes](/chapter2/processes.md)
+* [Chapter 3](/chapter3/chapter3.md)
