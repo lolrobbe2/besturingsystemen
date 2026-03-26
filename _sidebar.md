@@ -7,3 +7,6 @@
 * [chapter 2](/chapter2/chapter2.md)
   * [processes](/chapter2/processes.md)
 * [Chapter 3](/chapter3/chapter3.md)
+* [chapter 4](/chapter4/chapter4.md)
+  * [partitioning](/chapter4/parititioning/paritioning.md)
+  
