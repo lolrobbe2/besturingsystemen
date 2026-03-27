@@ -9,4 +9,4 @@
 * [Chapter 3](/chapter3/chapter3.md)
 * [chapter 4](/chapter4/chapter4.md)
   * [partitioning](/chapter4/parititioning/paritioning.md)
-  
+  * [pagination](/chapter4/pagination/pagination.md)

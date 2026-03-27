@@ -6,7 +6,7 @@
 > memory is `finite/limited` => hence we `move/swap` unused `memory to disk` (swap space/file)
 
 > [!NOTE]
-> the process user space is `virtualized` IE `Process Addr` != `Physical Addr`.
+> the process user space is `virtualized` IE `Process Addr` != `Physical Addr` ([virtualization](/chapter4/pagination/pagination.md#_1-virtualization)).
 
 > [!NOTE]
 > this virtualization allows us to also add memory protections, thus making it so that process A cannot access process B
@@ -17,4 +17,7 @@
 ### **partitioning**
 - [fixed](/chapter4/parititioning/paritioning.md#_1-fixed-partitioning)
 - [dynamic](/chapter4/parititioning/paritioning.md#_2-dynamic-partitioning)
+
+### **pagination**
+- [virtualization](/chapter4/pagination/pagination.md#_1-virtualization)
 <!-- tabs:end -->
