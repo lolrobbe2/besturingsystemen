@@ -32,5 +32,8 @@
 ### **kernel types**
 
 - [kernel types](/chapter1/kernel-types.md)
-
+- [Monolithic Kernel](/chapter1/kernel-types.md#monolithic-kernel)
+- [Layered Kernel](/chapter1/kernel-types.md#layered-kernel)
+- [Micro Kernel](/chapter1/kernel-types.md#micro-kernel)
+- [Modular Kernel](/chapter1/kernel-types.md#modular-kernel)
 <!-- tabs:end -->
