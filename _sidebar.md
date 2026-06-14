@@ -5,6 +5,7 @@
   * [operating system](/chapter1/operating-system.md)
   * [kernel types](/chapter1/kernel-types.md)
   * [windows NT](/chapter1/windows-nt.md)
+  * [exam](/chapter1/exam.md)
 * [chapter 2](/chapter2/chapter2.md)
   * [processes](/chapter2/processes.md)
   * [process-memory](/chapter2/information/process-memory.md)

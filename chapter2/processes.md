@@ -1,6 +1,6 @@
 # processes
 
-![processes](/chapter2/processes/processes.png)
+![processes](./processes/processes.png)
 
 ## defenitions (2)
 <!-- tabs:start -->

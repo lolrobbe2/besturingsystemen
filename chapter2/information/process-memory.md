@@ -16,5 +16,3 @@ Red= private **Stack** segments.
 ### **Private User Address Space**
 
 `dynamic memory region` containing the the porgram source code and `allocated memory regions`
-
- 
