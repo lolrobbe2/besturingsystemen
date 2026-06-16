@@ -9,6 +9,8 @@
 * [chapter 2](/chapter2/chapter2.md)
   * [processes](/chapter2/processes.md)
   * [process-memory](/chapter2/information/process-memory.md)
+  * [process-switching](/chapter2/prcoess-switching.md)
+  * [threads](/chapter2/threads.md)
 * [Chapter 3](/chapter3/chapter3.md)
 * [chapter 4](/chapter4/chapter4.md)
   * [partitioning](/chapter4/parititioning/paritioning.md)
